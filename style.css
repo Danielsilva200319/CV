@@ -107,6 +107,12 @@ body{
     color: #fff;
     font-weight: 100;
 }
+.InformacionContact ul li span a
+{
+    color: #fff;
+    font-weight: 100;
+    text-decoration: none;
+}
 .InformacionContact.educacion li
 {
     margin-bottom: 15px;
